@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:50190",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\src\\WeatherForecast\\WeatherForecast.Server\\..\\weatherforecast.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
